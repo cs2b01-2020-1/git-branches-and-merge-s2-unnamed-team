@@ -1,3 +1,3 @@
 # git-branches-and-merge-s2-unnamed-team
-Guillermo Sanchez
+Guillermo Sanchez  
 Luis Carbajal
